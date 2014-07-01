@@ -1,0 +1,58 @@
+{
+  "name": "flow-pcc",
+  "version": "0.0.0",
+  "description": "Reduce transform stream which calculates the Pearson product-moment correlation coefficient matrix of streamed numeric data.",
+  "author": {
+    "name": "Athan Reines",
+    "email": "athan@nodeprime.com"
+  },
+  "contributors": [
+    {
+      "name": "Athan Reines",
+      "email": "athan@nodeprime.com"
+    }
+  ],
+  "scripts": {
+    "test": "mocha"
+  },
+  "main": "./lib",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kgryte/flow-pcc.git"
+  },
+  "keywords": [
+    "stream",
+    "writable",
+    "readable",
+    "transform",
+    "flow",
+    "flow.io",
+    "covariance",
+    "correlation",
+    "linear correlation",
+    "pearson product moment correlation coefficient",
+    "variance",
+    "multivariate",
+    "reduce",
+    "statistics",
+    "stats"
+  ],
+  "bugs": {
+    "url": "https://github.com/kgryte/flow-pcc/issues"
+  },
+  "dependencies": {
+    "stream-combiner": "~0.2.0",
+    "flow-reduce": "~0.0.0",
+    "flow-map": "~0.0.0"
+  },
+  "devDependencies": {
+    "mocha": "1.x.x",
+    "chai": "1.x.x"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/MIT"
+    }
+  ]
+}
