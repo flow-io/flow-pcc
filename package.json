@@ -1,6 +1,6 @@
 {
   "name": "flow-pcc",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Reduce transform stream which calculates the Pearson product-moment correlation coefficient matrix of streamed numeric data.",
   "author": {
     "name": "Athan Reines",
