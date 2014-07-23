@@ -18,7 +18,7 @@
   "main": "./lib",
   "repository": {
     "type": "git",
-    "url": "git://github.com/kgryte/flow-pcc.git"
+    "url": "git://github.com/flow-io/flow-pcc.git"
   },
   "keywords": [
     "stream",
@@ -38,7 +38,7 @@
     "stats"
   ],
   "bugs": {
-    "url": "https://github.com/kgryte/flow-pcc/issues"
+    "url": "https://github.com/flow-io/flow-pcc/issues"
   },
   "dependencies": {
     "stream-combiner": "~0.2.0",
