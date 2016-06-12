@@ -42,8 +42,8 @@
   },
   "dependencies": {
     "stream-combiner": "~0.2.0",
-    "flow-reduce": "~0.0.0",
-    "flow-map": "~0.0.0"
+    "flow-reduce": "0.0.0",
+    "flow-map": "0.0.0"
   },
   "devDependencies": {
     "mocha": "1.x.x",
